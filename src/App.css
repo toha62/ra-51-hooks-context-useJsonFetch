@@ -1,0 +1,13 @@
+body {
+    font-family: 'Mina', sans-serif;
+}
+
+#app {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#app > div {   
+    margin: 10px;
+}
